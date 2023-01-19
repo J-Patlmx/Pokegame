@@ -103,3 +103,10 @@ body {
     font-size: 32px;
   }
 }
+
+
+@media (min-width: 769px) {
+  body{
+    background-color: crimson;
+  }
+}
